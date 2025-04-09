@@ -1,0 +1,1 @@
+console.log("Static Web App loaded successfully!")
